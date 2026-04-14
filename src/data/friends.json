@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Rahim Khan",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "rahim.khan@email.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["university", "close friend", "cricket"],
+    "bio": "Met during undergrad at BUET. We still play cricket every weekend when possible.",
+    "goal": 14,
+    "next_due_date": "2026-04-10"
+  },
+  {
+    "id": 2,
+    "name": "Ayesha Rahman",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "email": "ayesha.rahman@gmail.com",
+    "days_since_contact": 5,
+    "status": "active",
+    "tags": ["school", "best friend", "foodie"],
+    "bio": "Childhood best friend from school. We bond over trying new street food in Dhaka.",
+    "goal": 7,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 3,
+    "name": "Samiul Islam",
+    "picture": "https://randomuser.me/api/portraits/men/67.jpg",
+    "email": "samiul.dev@proton.me",
+    "days_since_contact": 23,
+    "status": "overdue",
+    "tags": ["work", "coding", "gym"],
+    "bio": "Former colleague from the startup. We used to code late nights and hit the gym together.",
+    "goal": 21,
+    "next_due_date": "2026-04-05"
+  },
+  {
+    "id": 4,
+    "name": "Nadia Hossain",
+    "picture": "https://randomuser.me/api/portraits/women/22.jpg",
+    "email": "nadia.hossain@outlook.com",
+    "days_since_contact": 9,
+    "status": "warning",
+    "tags": ["college", "travel buddy"],
+    "bio": "Travel partner from university days. We've explored Cox's Bazar and Sylhet together.",
+    "goal": 14,
+    "next_due_date": "2026-04-16"
+  },
+  {
+    "id": 5,
+    "name": "Fahim Ahmed",
+    "picture": "https://randomuser.me/api/portraits/men/45.jpg",
+    "email": "fahim.ahmed@yahoo.com",
+    "days_since_contact": 3,
+    "status": "active",
+    "tags": ["neighborhood", "football", "close friend"],
+    "bio": "Grew up in the same moholla in Dhaka. Still play football every Friday evening.",
+    "goal": 10,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 6,
+    "name": "Tanzina Akter",
+    "picture": "https://randomuser.me/api/portraits/women/65.jpg",
+    "email": "tanzina.akter@gmail.com",
+    "days_since_contact": 31,
+    "status": "overdue",
+    "tags": ["school", "music"],
+    "bio": "Old school friend who shares my love for indie Bengali music and guitar sessions.",
+    "goal": 30,
+    "next_due_date": "2026-03-25"
+  },
+  {
+    "id": 7,
+    "name": "Imran Chowdhury",
+    "picture": "https://randomuser.me/api/portraits/men/88.jpg",
+    "email": "imran.c@live.com",
+    "days_since_contact": 12,
+    "status": "warning",
+    "tags": ["work", "mentor"],
+    "bio": "Senior from my first job. Always gives great career advice and checks in on me.",
+    "goal": 14,
+    "next_due_date": "2026-04-15"
+  },
+  {
+    "id": 8,
+    "name": "Maliha Khan",
+    "picture": "https://randomuser.me/api/portraits/women/33.jpg",
+    "email": "maliha.khan@hotmail.com",
+    "days_since_contact": 7,
+    "status": "active",
+    "tags": ["university", "book club"],
+    "bio": "University friend and fellow bookworm. We run a small monthly book discussion group.",
+    "goal": 10,
+    "next_due_date": "2026-04-19"
+  }
+]
+
+ 

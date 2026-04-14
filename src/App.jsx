@@ -1,14 +1,14 @@
 
-import './App.css'
+import Footer from "./Components/Footer";
+import Navbar from "./Components/Navbar";
+import AppRoutes from "./routes/AppRoutes";
 
-function App() {
-  
-
+export default function App() {
   return (
     <>
-      
+      <Navbar/>
+      <AppRoutes />
+      <Footer />
     </>
-  )
+  );
 }
-
-export default App
