@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 
 export default function Navbar() {
   const navClass = ({ isActive }) =>
-    `btn btn-ghost ${isActive ? "bg-green-500 text-white" : ""}`;
+    `btn btn-ghost ${isActive ? "bg-green-800 text-white" : ""}`;
 
   return (
     <>
