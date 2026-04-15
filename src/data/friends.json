@@ -6,7 +6,7 @@
     "email": "rahim.khan@email.com",
     "days_since_contact": 18,
     "status": "overdue",
-    "tags": ["university", "close friend", "cricket"],
+    "tags": ["university"],
     "bio": "Met during undergrad at BUET. We still play cricket every weekend when possible.",
     "goal": 14,
     "next_due_date": "2026-04-10"
@@ -18,7 +18,7 @@
     "email": "ayesha.rahman@gmail.com",
     "days_since_contact": 5,
     "status": "active",
-    "tags": ["school", "best friend", "foodie"],
+    "tags": [ "best friend"],
     "bio": "Childhood best friend from school. We bond over trying new street food in Dhaka.",
     "goal": 7,
     "next_due_date": "2026-04-18"
@@ -30,7 +30,7 @@
     "email": "samiul.dev@proton.me",
     "days_since_contact": 23,
     "status": "overdue",
-    "tags": ["work", "coding", "gym"],
+    "tags": ["work"],
     "bio": "Former colleague from the startup. We used to code late nights and hit the gym together.",
     "goal": 21,
     "next_due_date": "2026-04-05"
@@ -42,7 +42,7 @@
     "email": "nadia.hossain@outlook.com",
     "days_since_contact": 9,
     "status": "warning",
-    "tags": ["college", "travel buddy"],
+    "tags": ["college"],
     "bio": "Travel partner from university days. We've explored Cox's Bazar and Sylhet together.",
     "goal": 14,
     "next_due_date": "2026-04-16"
@@ -54,7 +54,7 @@
     "email": "fahim.ahmed@yahoo.com",
     "days_since_contact": 3,
     "status": "active",
-    "tags": ["neighborhood", "football", "close friend"],
+    "tags": ["close friend"],
     "bio": "Grew up in the same moholla in Dhaka. Still play football every Friday evening.",
     "goal": 10,
     "next_due_date": "2026-04-20"
@@ -66,7 +66,7 @@
     "email": "tanzina.akter@gmail.com",
     "days_since_contact": 31,
     "status": "overdue",
-    "tags": ["school", "music"],
+    "tags": ["school"],
     "bio": "Old school friend who shares my love for indie Bengali music and guitar sessions.",
     "goal": 30,
     "next_due_date": "2026-03-25"
@@ -78,7 +78,7 @@
     "email": "imran.c@live.com",
     "days_since_contact": 12,
     "status": "warning",
-    "tags": ["work", "mentor"],
+    "tags": ["work"],
     "bio": "Senior from my first job. Always gives great career advice and checks in on me.",
     "goal": 14,
     "next_due_date": "2026-04-15"
@@ -90,7 +90,7 @@
     "email": "maliha.khan@hotmail.com",
     "days_since_contact": 7,
     "status": "active",
-    "tags": ["university", "book club"],
+    "tags": ["university"],
     "bio": "University friend and fellow bookworm. We run a small monthly book discussion group.",
     "goal": 10,
     "next_due_date": "2026-04-19"

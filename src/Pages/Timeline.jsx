@@ -7,7 +7,7 @@ export default function Timeline() {
   const { timeline } = useTimeline();
 
   return (
-    <div className="p-6">
+    <div className="p-6 my-20 w-11/12 mx-auto">
       <h1 className="text-2xl font-bold">Timeline</h1>
 
       {timeline.map((item, i) => (

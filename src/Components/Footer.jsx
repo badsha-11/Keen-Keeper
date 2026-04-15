@@ -8,16 +8,25 @@ export default function Footer() {
         {/* header */}
         <div className="text-white">
           <h1 className="text-5xl font-bold mb-4">KeenKeeper</h1>
-          <p className="mb-6">Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.</p>
+          <p className="mb-6">
+            Your personal shelf of meaningful connections. Browse, tend, and
+            nurture the relationships that matter most.
+          </p>
           <h2 className="text-xl font-semibold ">Social Links</h2>
           {/* sosail links */}
-          <div className="flex items-center justify-center gap-4">
-           {/** sosile links */}
-           <div className="bg-white text-black w-10 h-10 flex justify-center items-center rounded-full"><IoLogoInstagram /></div>
-           <div className="bg-white text-black w-10 h-10 flex justify-center items-center rounded-full"><FaSquareFacebook /></div>
-           <div className="bg-white text-black w-10 h-10 flex justify-center items-center rounded-full"><FaXTwitter /></div>
+          <div className="flex items-center justify-center gap-4 my-4">
+            {/** sosile links */}
+            <div className="bg-white text-black w-10 h-10 flex justify-center items-center rounded-full hover:bg-pink-500 hover:text-white transition-colors duration-300 cursor-pointer">
+              <IoLogoInstagram />
+            </div>
+            <div className="bg-white text-black w-10 h-10 flex justify-center items-center rounded-full hover:bg-blue-600 hover:text-white transition-colors duration-300 cursor-pointer">
+              <FaSquareFacebook />
+            </div>
+            <div className="bg-white text-black w-10 h-10 flex justify-center items-center rounded-full hover:bg-black hover:text-white transition-colors duration-300 cursor-pointer">
+              <FaXTwitter />
+            </div>
           </div>
-          <hr className="border border-gray-400/50 my-10"/>
+          <hr className="border border-gray-400/50 my-10" />
         </div>
         {/* body */}
         <div className="flex justify-between items-center text-gray-400">

@@ -19,7 +19,7 @@ export default function Home() {
 
   return (
     <div className="w-11/12 mx-auto">
-        <Hero />
+        <Hero friends={friends} />
         
       <div className="mb-20 mt-6">
         <h2 className="text-2xl font-bold">Your Friends</h2>
