@@ -1,16 +1,29 @@
-# React + Vite
+#  KinKeeper
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**KinKeeper** is a sophisticated personal relationship management platform designed to help users track, nurture, and visualize their meaningful connections. Built with a focus on clean UI/UX and actionable insights, it serves as your digital shelf for lifelong friendships.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##  Technologies Used
 
-## React Compiler
+- **Frontend:** React.js
+- **Styling:** Tailwind CSS
+- **Charts/Analytics:** Recharts
+- **Icons & UI:** Lucide React / DaisyUI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Key Features
+
+### 1. **Interactive Friendship Analytics**
+Visualize your social life through dynamic charts. Track your interaction patterns—whether it's via text, voice calls, or video chats—to see how you're staying connected with your loved ones.
+
+### 2. **Chronological Interaction Timeline**
+Never lose track of your memories. The project features a beautifully designed vertical timeline that logs every interaction, making it easy to filter and revisit past moments based on the interaction type.
+
+### 3. **Modern & Minimal UI/UX**
+Inspired by high-end professional tools, KinKeeper boasts a "Keen" and "Clean" aesthetic. With a responsive layout, dark-green brand accents, and a user-friendly dashboard, managing relationships has never felt more organized.
+
+
+

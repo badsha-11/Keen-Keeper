@@ -37,7 +37,7 @@ export default function FriendDetails() {
               <span className="text-xs font-medium px-3 py-1 rounded-full bg-green-50 text-green-700">Family</span>
             </div>
             <p className="text-xs text-gray-400 italic mb-1">"{friend.bio}"</p>
-            <p className="text-xs text-gray-300">Preferred: email</p>
+            <p className="text-xs text-gray-300">Preferred: {friend.email}</p>
           </div>
 
           
